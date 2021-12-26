@@ -25,7 +25,7 @@ import math
 
 pygame.init()
 
-pygame.display.set_caption("AI Dino")
+pygame.display.set_caption("AI_DinoGame | Lakshya")
 
 # Gloal Constants
 SCREEN_HEIGHT = 600
